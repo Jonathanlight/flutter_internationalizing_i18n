@@ -1,2 +1,2 @@
-# flutter_Internation-alizing_i18n
-Internation­alizing i18n
+# flutter_internationalizing_i18n
+

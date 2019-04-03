@@ -1,0 +1,5 @@
+localizationsDelegates: [
+        FlutterI18nDelegate({useCountryCode = false, fallbackFile, basePath = "assets/flutter_i18n"}),
+        GlobalMaterialLocalizations.delegate,
+        GlobalWidgetsLocalizations.delegate
+],

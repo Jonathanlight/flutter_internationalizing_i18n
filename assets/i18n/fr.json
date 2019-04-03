@@ -1,0 +1,15 @@
+{
+    "title": "Test Application Français",
+    "label": {
+      "main": "Bonjour {user}!"
+    },
+    "button": {
+      "clickMe": "Clique ici"
+    },
+    "toastMessage": "Clique sur cet bouton",
+    "clicked": {
+      "times-0": "Tu clique {times} temps!",
+      "times-1": "Tu clique {time} temps!",
+      "times-2": "Tu clique {times} temps!"
+    }
+  }
